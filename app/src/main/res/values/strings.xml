@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android_17_Listview_Dynamic_Loading</string>
+
+
+    <string-array name="list"> //定義清單資料
+        <item>清單 第一項 </item>
+        <item>清單 第二項 </item>
+        <item>清單 第三項</item>
+        <item>清單 第四項</item>
+        <item>清單 第五項 </item>
+        <item>清單 第六項 </item>
+        <item>清單 第七項</item>
+        <item>清單 第八項</item>
+        <item>清單 第九項 </item>
+        <item>清單 第十項 </item>
+
+    </string-array>
+
+</resources>
